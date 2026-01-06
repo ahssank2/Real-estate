@@ -1,0 +1,331 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.p{
+    background-color: #0a0acc;
+    position: absolute;
+    top: 260px;
+    left: 130px;
+    border-left: 450px solid  #0a0acc;
+    padding: 150px;
+    opacity: 70%;
+}
+.head{
+    color: white;
+    position: absolute;
+    top: 300px;
+    left: 180px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.sr{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 385px;
+    left: 180px;
+}
+.help{
+    color: white;
+    position: absolute;
+    left: 180px;
+    top: 450px;
+}
+.ser{
+    position: absolute;
+    left: 180px;
+    top: 510px;
+    background-color: aliceblue;
+    padding: 10px;
+    border-right: 380px solid aliceblue;
+}
+.h4:hover{
+    border-bottom: 2px solid white;
+}
+.second{
+    background-color: rgb(180, 180, 180);
+    position: absolute;
+    top: 780px;
+    border-bottom: 500px solid rgb(180, 180, 180);
+    border-left: 300px solid rgb(180, 180, 180);
+    color: rgb(180, 180, 180);
+}
+.girls{
+    position: absolute;
+    top: 800px;
+    left: 60px
+}
+.jean{
+    font-size: 20px;
+    position: absolute;
+    color: #0a0acc;
+    top: 810px;
+    left: 630px;
+}
+.par{
+    position: absolute;
+    left: 630px;
+    top: 930px;
+}
+.prop h3{
+    font-size: 25px;
+    color: #0a0acc;
+    position: absolute;
+    left: 630px;
+    top: 870px;
+
+}
+.third{
+    position: absolute;
+    top: 1440px;
+}
+.thirdp{
+    color: #0a0acc;
+    background-color: #0a0acc;
+    position: absolute;
+    top: 1440px;
+    border: 50px solid #0a0acc;
+    width: 1556px;
+    height: 500px;
+    opacity: 70%;
+}
+.thirdh1{
+    color: aliceblue;
+    position: absolute;
+    top: 1500px;
+    left: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.house{
+    position: absolute;
+    top: 1630px;
+    left: 140px;
+}
+.rocket{
+    position: absolute;
+    top: 1630px;
+    left: 440px;
+}
+.troffee{
+    position: absolute;
+    top: 1630px;
+    left: 700px;
+}
+.star{
+    position: absolute;
+    top: 1630px;
+    left: 1000px;
+}
+.newprojects{
+    position: absolute;
+    top: 1710px;
+    left: 80px;
+    color: white;
+}
+.readytomove{
+    color: white;
+    position: absolute;
+    top: 1710px;
+    left: 370px;
+}
+.commercial{
+    color: white;
+    position: absolute;
+    top: 1710px;
+    left: 660px;
+}
+.gated{
+    color: white;
+    position: absolute;
+    left: 945px;
+    top: 1710px;
+}
+.newper{
+    color: white;
+    position: absolute;
+    top: 1780px;
+    left: 60px;
+}
+.readyper{
+    color: white;
+    position: absolute;
+    top: 1780px;
+    left: 340px;
+}
+.commercialper{
+    color: white;
+    position: absolute;
+    top: 1780px;
+    left: 620px;
+}
+.gateper{
+    color: white;
+    position: absolute;
+    top: 1780px;
+    left: 915px;
+}
+.btn button{
+    position: absolute;
+    top: 1950px;
+    left: 550px;
+    padding: 10px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 30px;
+}
+.btn button:hover{
+    background-color: #0a0acc;
+    color: white;
+    border: 1px solid white;
+}
+.four{
+    color: rgb(180, 180, 180);
+    position: absolute;
+    top: 2060px;
+    background-color: rgb(180, 180, 180);
+    border-left: 300px solid rgb(180, 180, 180);
+    border-bottom: 700px solid rgb(180, 180, 180);
+}
+.fourimg{
+    position: absolute;
+    top: 2140px;
+    left: 90px;
+}
+.fourh1{
+    color: #0a0acc;
+    position: absolute;
+    top: 2100px;
+    left: 700px;
+}
+.fourname{
+    font-size: 20px;
+    position: absolute;
+    top: 2180px;
+    left: 700px;
+}
+.fournumber{
+    font-size: 20px;
+    position: absolute;
+    top: 2300px;
+    left: 700px;
+}
+.fourcountry{
+    font-size: 20px;
+    position: absolute;
+    top: 2250px;
+    left: 1000px;
+}
+.phone{
+    position: absolute;
+    top: 2510px;
+    left: 90px;
+}
+.phonenum{
+    font-size: 18px;
+    position: absolute;
+    top: 2517px;
+    left: 140px;
+}
+.fourmail{
+    position: absolute;
+    top: 2560px;
+    left: 95px;
+}
+.instagram{
+    position: absolute;
+    top: 2600px;
+    left: 90px;
+}
+.facebook{
+    position: absolute;
+    top: 2600px;
+    left: 150px;
+}
+.youtube{
+    position: absolute;
+    top: 2600px;
+    left: 215px;
+}
+.btn2 button{
+    position: absolute;
+    top: 2630px;
+    left: 600px;
+    background-color: #0a0acc;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 15px;
+    border: none;
+}
+.btn2 button:hover{
+    background-color: aliceblue;
+    border: 2px solid black;
+    color: black;
+
+}
+.five{
+    position: absolute;
+    top: 2775px;
+    border-left: 1256px solid #0a0acc;
+    border-bottom: 180px solid #0a0acc;
+}
+.fiveh3{
+    color: aliceblue;
+    position: absolute;
+    top: 2840px;
+    left: 70px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.fiveh0{
+    color: aliceblue;
+    position: absolute;
+    top: 2840px;
+    left: 220px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fiveco{
+    color: aliceblue;
+    position: absolute;
+    top: 2875px;
+    left: 70px;
+    font-size: 15px;
+}
+.fivep{
+    position: absolute;
+    top: 2830px;
+    border-left: 500px solid white;
+    font-size: xx-small;
+    left: 600px;
+}
+.last1{
+    color: white;
+    position: absolute;
+    top: 2860px;
+    left: 650px;
+}
+.last2{
+    color: white;
+    position: absolute;
+    top: 2860px;
+    left: 830px;
+}
+.last3{
+    color: white;
+    position: absolute;
+    top: 2860px;
+    left: 970px;
+}
+.last4{
+    background-color: white;
+    border: 30px solid rgb(255, 255, 255);
+    border-left: 320px solid rgb(255, 255, 255);
+    border-right: 400px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 2973px;
+}
